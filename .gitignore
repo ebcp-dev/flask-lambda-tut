@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+dist
+
+# Instrumented libs
+lib-cov
+
+# Coverage directory
+coverage
+
+# Compiled binary
+build/Release
+
+# Dependencies
+node_modules
+venv
+
+# OS
+.DS_Store
+.tmp
+
+# Serverless
+admin.env
+.env
+_meta
+.serverless
